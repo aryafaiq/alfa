@@ -1,0 +1,15 @@
+body{
+    background-color: #ee0826;
+    overflow-y: hidden;
+}
+
+.bcustom{
+    background-color: #005aab;
+}
+.bg-custom{
+ background-color: #ffd503;
+}
+.cardtest{
+    width: 95%;
+    margin: auto;
+}
